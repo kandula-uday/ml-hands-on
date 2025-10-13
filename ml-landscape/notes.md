@@ -1,4 +1,4 @@
-# 📘 Chapter 1: The Machine Learning Landscape – Summary Notes
+# 📘 The Machine Learning Landscape – Summary Notes
 
 ## 1️⃣ What is Machine Learning?
 Machine Learning (ML) is the field of computer science that enables systems to **learn from data** instead of being explicitly programmed.
