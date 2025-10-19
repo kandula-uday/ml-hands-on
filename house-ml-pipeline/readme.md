@@ -81,5 +81,5 @@ The raw dataset was gathered from multiple region-specific real estate listings 
 ### Option 1: Run Locally
 ```bash
 git clone 
-cd toronto-housing-ml
+cd house-ml-pipeline
 jupyter notebook
